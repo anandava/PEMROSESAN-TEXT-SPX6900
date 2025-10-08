@@ -1,0 +1,49 @@
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+build/
+dist/
+
+# ========================
+# Jupyter Notebook
+# ========================
+.ipynb_checkpoints/
+
+# ========================
+# Environment / Virtual Env
+# ========================
+.env
+.env/
+node_env/
+venv/
+venv*/
+*.env
+*.venv
+.envrc
+.python-version
+
+# ========================
+# OS / IDE Files
+# ========================
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+
+# ========================
+# Logs / Cache
+# ========================
+*.log
+*.tmp
+*.bak
+.cache/
+__pycache__/
