@@ -1,0 +1,11 @@
+Bi-gram,Frekuensi
+"('spx', 'spx')",134
+"('spx', 'the')",94
+"('persist', 'forever')",63
+"('spx', 'will')",55
+"('believe', 'something')",53
+"('stock', 'market')",48
+"('the', 'spx')",48
+"('into', 'spx')",46
+"('spx', 'and')",42
+"('the', 'stock')",41

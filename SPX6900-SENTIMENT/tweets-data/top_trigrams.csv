@@ -1,0 +1,11 @@
+Tri-gram,Frekuensi
+"('the', 'stock', 'market')",41
+"('flip', 'the', 'stock')",25
+"('believe', 'something', 'spx')",22
+"('stop', 'trading', 'and')",21
+"('whale', 'token', 'purchases')",21
+"('spx', 'wormhole', 'spx')",21
+"('wormhole', 'spx', 'whales')",21
+"('doodles', 'dood', 'whales')",20
+"('whales', 'spx', 'wormhole')",19
+"('trading', 'and', 'believe')",17
